@@ -1,0 +1,124 @@
+.gameButtons button{
+   background-color: rgba(163, 163, 163, 0.784);
+   border: none;
+   color: aliceblue;
+   font-size: 20px;
+   border-radius:15cm ;
+}
+ .gameButtons{
+    display: flex;
+    justify-content: end;
+    margin-right:15px ;
+ }
+.gameLogo{
+    width: 300px;
+    height: auto;
+}
+.game{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gameTitle1{
+    color:grey;
+}
+
+.gameCards{
+    display: flex;
+    justify-content: center;
+}
+
+.cardYou{
+    width: 500px;
+    height: auto;
+    background-color: rgba(67, 131, 228, 0.137);
+    color: rgb(67, 132, 228);
+}
+
+.cardYou button{
+    background-color: rgb(67, 132, 228);
+    border: none;
+    border-radius: 15cm;
+    color: aliceblue;
+    font-size: 20px;
+    width: 200px;
+}
+
+.cardYou .cardItem{
+    color:rgb(13, 13, 65);
+    display: flex;
+    justify-content:space-around;
+    margin: 15px;
+}
+
+.cardYou .cardItemCoin{
+    background-color: rgba(67, 131, 228, 0.4);
+    width: 150px;
+    border-radius: 10cm;
+    height: 25px;
+    padding-top: 5px;
+}
+
+.cardProtocol{
+    width: 500px;
+    background-color: rgba(255, 166, 0, 0.137);
+    color: rgb(249, 166, 0);
+}
+
+.cardProtocol button{
+    background-color: rgb(249, 166, 0);
+    border: none;
+    border-radius: 15cm;
+    color: aliceblue;
+    font-size: 20px;
+    width: 200px;
+}
+
+.cardProtocol .cardItem{
+    color:rgb(240, 160, 2);
+    display: flex;
+    justify-content:space-around;
+    margin: 15px;
+}
+
+.cardProtocol .cardItemCoin{
+    background-color: rgba(255, 193, 105, 0.464);
+    width: 150px;
+    border-radius: 10cm;
+    height: 25px;
+    padding-top: 5px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 25px;
+    color: gray;
+}
+
+.CoinContainer button{
+    border-radius: 15cm;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+}
+
+.WagButton{
+    background-color: rgba(67, 131, 228, 0.603);
+    color: white;
+    width: 5cm;
+}
+
+.TailButton{
+    background-color: rgba(249, 166, 0, 0.636);
+    color: white;
+    width: 5cm;
+}
+
+.CoinContainer{
+    color:rgb(249, 166, 0);
+}
+
+.FlipButton{
+    background-color: white;
+    color:gray;
+    margin:10px;
+    width: 15cm;
+}

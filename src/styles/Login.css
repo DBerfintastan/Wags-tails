@@ -1,0 +1,31 @@
+.Login img{
+    margin-top: 100px;
+    width: 150px;
+}
+
+.Login {
+    color: rgb(240, 164, 23);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.Login input{
+   display: flex;
+   margin: 10px;
+   border-color: rgb(249, 166, 0);
+}
+
+.Login h2{
+    margin-bottom: 35px;
+}
+
+.Login button{
+    border: none;
+    border-radius: 15cm;
+    margin-top:25px;
+    color: white;
+    background-color: rgb(249, 166, 0);
+    font-size: 20px;
+    width: 100px;
+    padding: 5px;
+}

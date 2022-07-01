@@ -1,0 +1,50 @@
+.partnerLayout {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.partnerLayout img {
+    height: 50px;
+    width: auto;
+    margin-left: 25px;
+}
+
+.partner {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.partners h2 {
+    color: gray;
+}
+
+.partners {
+    margin-top: 100px;
+    margin-bottom: auto;
+}
+
+.partners button {
+    border: none;
+    display: flex;
+    margin: 15px;
+    color: rgb(2, 2, 79);
+    border-radius: 15cm;
+    width: 500px;
+    justify-content: space-between;
+    background-color: rgb(137, 200, 186);
+    font-size: large;
+
+}
+
+.partners button div {
+    border: none;
+    display: flex;
+    margin: 10px;
+    border-radius: 15cm;
+}
+
+.status {
+    background-color: rgb(6, 199, 6);
+    color: rgb(6, 199, 6);
+    border-radius: 15cm;
+}

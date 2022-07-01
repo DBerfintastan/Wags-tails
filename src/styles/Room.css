@@ -1,0 +1,41 @@
+
+.roomLayout img{
+    height: 50px;
+    width: auto;
+    margin-left: 25px;
+}
+
+.room{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rooms h2{
+   color: gray;
+}
+
+.rooms{
+    margin-top: 100px;
+    margin-bottom: auto;
+}
+
+.rooms button{
+    border: none;
+    display: flex;
+    margin: 15px;
+    color: rgb(2, 2, 79);
+    border-radius: 15cm;
+    width: 500px;
+    justify-content: space-between;
+    background-color:rgb(59, 209, 176);
+    font-size: large;
+
+}
+
+.rooms button div{
+    border: none;
+    display: flex;
+    margin: 10px;
+    color: rgb(2, 2, 79);
+    border-radius: 15cm;
+}
+

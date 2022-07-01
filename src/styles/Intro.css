@@ -1,0 +1,30 @@
+.intro{
+    margin-top:8% ;
+    margin-left:10%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    border: none;
+}
+
+.intro_title1{
+    font-size: 50px;
+    color: orange;
+    margin-top: 10px;
+}
+
+.intro_title2{
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+.intro_title3{
+    color:gray;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.intro img{
+    width: 350px;
+    height: auto;
+}
+

@@ -1,0 +1,10 @@
+.CoinState{
+    color:orange;
+    margin-top:50px;
+    font-size: 75px;
+    text-transform: uppercase;
+}
+
+.CoinState img{
+  width: 60px;
+}

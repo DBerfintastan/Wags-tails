@@ -1,0 +1,47 @@
+.home {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    border-style: none;
+    width: max-content;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+.home_title1 {
+    font-size: 75px;
+    margin-top: 10px;
+    color: orange;
+}
+
+.home_title2 {
+    font-size: 40px;
+    margin-top: 10px;
+    color: olive;
+}
+
+.home_title3 {
+    font-size: 25px;
+    margin-top: 10px;
+    color: olive;
+}
+
+.home_title4 {
+    font-size: 20px;
+    margin-top: 10px;
+    color: olive;
+}
+
+.home_button {
+    background-color: white;
+    color: orange;
+    border-radius: 15px;
+    border-style: none;
+    width: 200px;
+    height: auto;
+    font-size: 20px;
+
+}
